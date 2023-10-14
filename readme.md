@@ -1,3 +1,3 @@
 # QR Code Component - solution
 
-## Live at
+## Live at https://bircanali.github.io/fem-qr-code-component/
